@@ -1,0 +1,73 @@
+Manifest-Version: 1.0
+ContainedDeps: drplibrary-1.12.2-0.1.0.6.jar
+Maven-Artifact: net.dark_roleplay.core_modules:drpcmdates:1.12.2-1.0.1
+Timestamp: 1531857147229
+
+Name: META-INF/fml_cache_annotation.json
+SHA-256-Digest: 82bGKcBDjxd0iYr5JxR3q4MIqa7hZ6FedJgqaWmKGO4=
+
+Name: net/dark_roleplay/core_modules/dates/objects/events/AttachCapabi
+ lity.class
+SHA-256-Digest: 8eFO7wtn/gb65xP+7XcfnxQzQLthIxYBMKBSlIsRZqA=
+
+Name: net/dark_roleplay/core_modules/dates/objects/capabilities/IDateH
+ andler$Impl.class
+SHA-256-Digest: hr6kLsSqm7D7u3I6xhd13mG9/di88Wll4xu6nd1/HDk=
+
+Name: META-INF/libraries/drplibrary-1.12.2-0.1.0.6.jar
+SHA-256-Digest: e6h7L0MWlJTtzd7+4kik1S+qR+DzjvEKz1766K6yu+U=
+
+Name: net/dark_roleplay/core_modules/dates/handler/Capabilities.class
+SHA-256-Digest: RERtVkiMPP3blv0IlnhIafeNChMWULRMZc0eePMb4to=
+
+Name: net/dark_roleplay/core_modules/dates/objects/events/WorldTick.cl
+ ass
+SHA-256-Digest: DrtGmwtp9QKMr0S1iZnIPmAveuJ6po+9T8oXOdtamKc=
+
+Name: pack.mcmeta
+SHA-256-Digest: qU9FXtpE5KuraKZCU1PKxlwQoNzR9PytgUP3llqGb+Q=
+
+Name: net/dark_roleplay/core_modules/dates/configs/Worlds.class
+SHA-256-Digest: x5YKMGTMjybPAJvxG59rSU2os2c+ilQRYFNj9dRKmjE=
+
+Name: net/dark_roleplay/core_modules/dates/api/EventDateChange.class
+SHA-256-Digest: XVnYTzZrXYoHbEZEkQh7A9SzoRm15nWHeD2yeCUetqQ=
+
+Name: net/dark_roleplay/core_modules/dates/objects/other/Season.class
+SHA-256-Digest: T6rygAPTP+PsP76caqLTt04iVHVXqcVsE5hZ/fEm24o=
+
+Name: net/dark_roleplay/core_modules/dates/configs/DimensionSettings.c
+ lass
+SHA-256-Digest: lpffp6DItCJDiWP7PkNsgU8R2BCRfR384bCGqS3Yio8=
+
+Name: net/dark_roleplay/core_modules/dates/DRPCMDates.class
+SHA-256-Digest: GEXedCUNLnepkavBTaoux5F+0mOeTyfEHPobp1/OGuw=
+
+Name: net/dark_roleplay/core_modules/dates/References.class
+SHA-256-Digest: WQ19+mOlXqfxmzK/Fl+4ekxjYHFhHDURB686jmUypLg=
+
+Name: net/dark_roleplay/core_modules/dates/configs/DimensionSettings$1
+ .class
+SHA-256-Digest: xur4Q/ZGUmBLL2y7DxMKhLXlRrOtrK5GIBpVpuCc7cc=
+
+Name: net/dark_roleplay/core_modules/dates/objects/capabilities/DateSt
+ orage.class
+SHA-256-Digest: yY21ul/k/8y2QY9pcrI/rus+Koq5uoy56z9MaS/5NgQ=
+
+Name: net/dark_roleplay/core_modules/dates/objects/other/Date.class
+SHA-256-Digest: jWrJj1tDpjo+RWdn3UWhqDGs81J8zXKLPqd4Voc8RV4=
+
+Name: net/dark_roleplay/core_modules/dates/objects/other/Season$1.clas
+ s
+SHA-256-Digest: XySDH+LvNm5gXzAx+6ns/A9VY/8j518yufXVVfTIJ/E=
+
+Name: META-INF/fml_cache_class_versions.json
+SHA-256-Digest: GyYNwDO9goGeGVngyVIuO5p+QCkgQa62KKSBFS8EG3s=
+
+Name: mcmod.info
+SHA-256-Digest: Q8+qhkb5eHsZ9b9SyyTl6fyCZfWY+JF1cqMbV/47xBM=
+
+Name: net/dark_roleplay/core_modules/dates/objects/capabilities/IDateH
+ andler.class
+SHA-256-Digest: 3ViyMrfbV5WIHgLJk+iqEfWXuAsMHDYQ347NbwRm3LQ=
+
