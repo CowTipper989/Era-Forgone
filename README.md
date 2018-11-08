@@ -15,3 +15,5 @@ Chests Turned Red briefly
 
 --Random explosions are constantly happening' - turn off animal rebellion -- DONE
 Might want to look through some more Epic Siege Mod configs
+
+Disable crafting of beds, add inns that you must pay to use.
