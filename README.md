@@ -17,3 +17,6 @@ Chests Turned Red briefly
 Might want to look through some more Epic Siege Mod configs
 
 Disable crafting of beds, add inns that you must pay to use.
+
+Remove mobs from agro mode
+    - Deer from Roots
